@@ -1,0 +1,23 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "panelweights",
+  "version": "0.6.0",
+  "description": "Design weights and non-response adjustment for household panel surveys.",
+  "codeRepository": "https://panelweights.example.org/",
+  "readme": "https://panelweights.example.org",
+  "license": "MIT",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python 3.10"
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Ines",
+      "familyName": "Duarte",
+      "email": "ines.duarte@example.org"
+    }
+  ],
+  "dateModified": "2026-10-29"
+}
