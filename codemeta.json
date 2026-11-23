@@ -4,7 +4,7 @@
   "name": "panelweights",
   "version": "0.6.0",
   "description": "Design weights and non-response adjustment for household panel surveys.",
-  "codeRepository": "https://panelweights.example.org/",
+  "codeRepository": "https://github.com/Anas-Elhounsri/panelweights",
   "readme": "https://raw.githubusercontent.com/Anas-Elhounsri/panelweights/main/README.md",
   "license": "MIT",
   "programmingLanguage": {
